@@ -1,0 +1,238 @@
+{
+    "version": "1.0",
+    "name": "CremmaLab adapté au latin",
+    "author": "Thibault Clérice <thibault.clerice@chartes.psl.eu>",
+    "characters": [
+        {
+            "character": "⁊",
+            "keyboard_code": null,
+            "column": 0,
+            "row": 0
+        },
+        {
+            "character": "ꝯ",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 0
+        },
+        {
+            "character": "ꝰ",
+            "keyboard_code": null,
+            "column": 2,
+            "row": 0
+        },
+        {
+            "character": "\u033E",
+            "legend" : "tilde verticale",
+            "keyboard_code": null,
+            "column": 3,
+            "row": 0
+        },
+        {
+            "character": "\u0303",
+            "legend" : "tilde horizontale",
+            "keyboard_code": null,
+            "column": 4,
+            "row": 0
+        },
+        {
+            "character": "÷",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 0
+        },
+        {
+            "character": "\u0336",
+            "legend" : "barre horizontale",
+            "keyboard_code": null,
+            "column": 0,
+            "row": 1
+        },
+        {
+            "character": "ħ",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 1
+        },
+        {
+            "character": "ł",
+            "keyboard_code": null,
+            "column": 2,
+            "row": 1
+        },
+        {
+            "character": "ꝑ",
+            "keyboard_code": null,
+            "column": 3,
+            "row": 1
+        },
+        {
+            "character": "ꝓ",
+            "keyboard_code": null,
+            "column": 4,
+            "row": 1
+        },
+        {
+            "character": "ẜ",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 1
+        },
+        {
+            "character": "\u0363",
+            "keyboard_code": null,
+            "legend" : "a suscrit",
+            "column": 0,
+            "row": 2
+        },
+        {
+            "character": "\u0364",
+            "legend" : "e suscrit",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 2
+        },
+        {
+            "character": "\u0365",
+            "legend" : "i suscrit",
+            "column": 2,
+            "row": 2
+        },
+        {
+            "character": "\u0366",
+            "legend" : "o suscrit",
+            "keyboard_code": null,
+            "column": 3,
+            "row": 2
+        },
+        {
+            "character": "\u0367",
+            "legend" : "u suscrit",
+            "keyboard_code": null,
+            "column": 4,
+            "row": 2
+        },
+        {
+            "character": "\u0368",
+            "legend" : "c suscrit",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 2
+        },
+        {
+            "character": "\u036B",
+            "legend" : "m suscrit",
+            "keyboard_code": null,
+            "column": 0,
+            "row": 3
+        },
+        {
+            "character": "\u1DE0",
+            "legend" : "n suscrit",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 3
+        },
+        {
+            "character": "\u036C",
+            "legend" : "r suscrit",
+            "keyboard_code": null,
+            "column": 2,
+            "row": 3
+        },
+        {
+            "character": "\u1DE4",
+            "legend" : "s suscrit",
+            "keyboard_code": null,
+            "column": 3,
+            "row": 3
+        },
+         {
+            "character": "\u036D",
+            "legend" : "t suscrit",
+            "keyboard_code": null,
+            "column": 4,
+            "row": 3
+        },
+        
+        {
+            "character": "\u036F",
+            "legend" : "x suscrit",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 3
+        },
+       
+          {
+            "character":"\uEFAA",
+            "legend" : "ligature ar",
+            "keyboard_code": null,
+            "column": 0,
+            "row": 4
+        },
+
+       {
+            "character":"\u1DD1",
+            "legend" : "ligature ur",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 4
+        },
+        
+        {
+            "character":"\uA775",
+            "legend" : "ABR. rum",
+            "keyboard_code": null,
+            "column": 2,
+            "row": 4
+        },
+
+       {
+            "character":"\uA757",
+            "legend" : "q barré vertical",
+            "keyboard_code": null,
+            "column": 3,
+            "row": 4
+        },
+
+        {
+            "character":"\uA759",
+            "legend" : "q barré diagonal",
+            "keyboard_code": null,
+            "column": 4,
+            "row": 4
+        },
+
+        {
+            "character":"\uA758",
+            "legend" : "q barré diagonal MAJ",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 4
+        },
+        {
+            "character":"\uF1AC",
+            "legend" : "semi-colon",
+            "keyboard_code": null,
+            "column": 0,
+            "row": 5
+        },
+       
+
+        {
+            "character":"‸",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 5
+        },
+
+        {
+            "character":"⁋",
+            "keyboard_code": null,
+            "column": 2,
+            "row": 5
+        }
+
+       
+    ]
+}
