@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT2319" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2318" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT2317" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2316" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT814" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT815" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT815" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT814" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
   </Tags>
   
   <Layout>
@@ -93,7 +93,7 @@
                     WIDTH="846"
                     HEIGHT="94">
             <Shape><Polygon POINTS="371 659 371 607 1205 622 1212 666 1210 678 1131 698 1131 698 1131 701 934 701 932 698 932 698 929 698 861 678 664 696 664 696 661 696 661 696 659 696 659 696 600 676 462 691 462 691 460 691 460 691 366 671"/></Shape>
-	    <String CONTENT="N imirum sapiunt uident magnam"
+	    <String CONTENT="N imirum sapiunt uidentq magnam"
                     HPOS="366"
                     VPOS="607"
                     WIDTH="846"
@@ -110,7 +110,7 @@
                     WIDTH="782"
                     HEIGHT="106">
             <Shape><Polygon POINTS="376 728 371 678 403 666 403 666 405 666 405 666 408 666 408 666 536 681 541 681 541 681 573 666 573 666 573 666 575 666 575 666 578 666 578 666 578 666 580 666 580 666 583 666 583 666 583 669 600 683 602 683 605 683 656 671 656 671 656 671 659 671 659 671 661 671 661 671 661 671 664 671 664 671 664 674 676 683 703 674 706 674 706 674 706 674 708 674 708 674 826 688 838 688 846 688 917 674 917 674 917 674 920 674 920 674 922 674 984 691 984 691 986 691 1023 676 1023 676 1025 676 1025 676 1025 676 1028 676 1028 676 1151 696 1153 745 1146 772 1111 757 1079 772 1077 772 1077 772 1075 772 1075 772 1075 772 1072 772 1072 772 1070 772 1070 772 1065 769 1028 757 949 767 932 769 932 769 929 769 929 769 912 767 819 750 789 765 789 765 789 765 789 765 787 765 787 765 784 765 784 765 784 765 782 765 782 765 782 765 745 750 622 762 600 762 600 762 597 762 597 762 583 760 484 742 373 755"/></Shape>
-	    <String CONTENT="Matrone quo mentulam libenter"
+	    <String CONTENT="Matrone quoq mentulam libenter"
                     HPOS="371"
                     VPOS="666"
                     WIDTH="782"
