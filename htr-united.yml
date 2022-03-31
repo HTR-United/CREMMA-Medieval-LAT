@@ -8,6 +8,7 @@ authors:
       roles:
       - 'project-manager'
       - 'quality-control'
+      - 'transcriber'
     - name: 'Chagué'
       surname: 'Alix'
       roles:
