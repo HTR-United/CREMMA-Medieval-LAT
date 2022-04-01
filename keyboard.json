@@ -120,6 +120,13 @@
             "row": 2
         },
         {
+            "character": "\u1DDD",
+            "legend" : "L suscrit",
+            "keyboard_code": null,
+            "column": 6,
+            "row": 2
+        },
+        {
             "character": "\u036B",
             "legend" : "m suscrit",
             "keyboard_code": null,
