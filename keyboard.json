@@ -36,9 +36,16 @@
             "row": 0
         },
         {
-            "character": "÷",
+            "character": "\u0307",
+            "legend" : "Point suscrit",
             "keyboard_code": null,
             "column": 5,
+            "row": 0
+        },
+        {
+            "character": "÷",
+            "keyboard_code": null,
+            "column": 6,
             "row": 0
         },
         {
