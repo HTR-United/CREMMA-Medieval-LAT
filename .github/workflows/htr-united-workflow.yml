@@ -36,6 +36,21 @@ jobs:
     - name: Run HTRVX
       run: |
         htrvx --verbose --group --format alto --segmonto --xsd --check-empty data/**/*.xml
+  ChocoMufin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install chocomufin
+      - name: Run ChocoMufin
+        run: |
+          chocomufin -n NFD control table.csv data/**/*.xml
   HTR_United_Metadata_Generator:
     runs-on: ubuntu-latest
     steps:
