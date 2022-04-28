@@ -1,248 +1,154 @@
-{
-    "version": "1.1",
-    "name": "CremmaLab adapté au latin",
-    "author": "Thibault Clérice <thibault.clerice@chartes.psl.eu>",
-    "characters": [
-        {
-            "character": "\u204a",
-            "keyboard_code": 55,
-            "column": 0,
-            "row": 0
-        },
-        {
-            "character": "\ua76f",
-            "keyboard_code": 57,
-            "column": 1,
-            "row": 0
-        },
-        {
-            "character": "\ua770",
-            "keyboard_code": 56,
-            "column": 2,
-            "row": 0
-        },
-        {
-            "character": "\u033e",
-            "legend": "tilde verticale",
-            "keyboard_code": 39,
-            "column": 3,
-            "row": 0
-        },
-        {
-            "character": "\u0303",
-            "legend": "tilde horizontale",
-            "keyboard_code": 95,
-            "column": 4,
-            "row": 0
-        },
-        {
-            "character": "\u0307",
-            "legend": "Point suscrit",
-            "keyboard_code": null,
-            "column": 5,
-            "row": 0
-        },
-        {
-            "character": "\u00f7",
-            "keyboard_code": null,
-            "column": 6,
-            "row": 0
-        },
-        {
-            "character": "\uf1ac",
-            "legend": "semi-colon",
-            "keyboard_code": 59,
-            "column": 7,
-            "row": 0
-        },
-        {
-            "character": "\u2038",
-            "keyboard_code": null,
-            "column": 8,
-            "row": 0
-        },
-        {
-            "character": "\u00b6",
-            "keyboard_code": null,
-            "column": 9,
-            "row": 0
-        },
-        {
-            "character": "\u0336",
-            "legend": "barre horizontale",
-            "keyboard_code": 45,
-            "column": 0,
-            "row": 1
-        },
-        {
-            "character": "\u0127",
-            "keyboard_code": null,
-            "column": 1,
-            "row": 1
-        },
-        {
-            "character": "\u0142",
-            "keyboard_code": 93,
-            "column": 2,
-            "row": 1
-        },
-        {
-            "character": "\ua751",
-            "keyboard_code": 91,
-            "column": 3,
-            "row": 1
-        },
-        {
-            "character": "\ua753",
-            "keyboard_code": 41,
-            "column": 4,
-            "row": 1
-        },
-        {
-            "character": "\u1e9c",
-            "keyboard_code": null,
-            "legend": "S barré",
-            "column": 5,
-            "row": 1
-        },
-
-        {
-            "character": "\ua775",
-            "legend": "ABR. rum",
-            "keyboard_code": 52,
-            "column": 6,
-            "row": 1
-        },
-        {
-            "character": "\ua757",
-            "legend": "q barré vertical",
-            "keyboard_code": null,
-            "column": 7,
-            "row": 1
-        },
-        {
-            "character": "\ua759",
-            "legend": "q barré diagonal",
-            "keyboard_code": 47,
-            "column": 8,
-            "row": 1
-        },
-        {
-            "character": "\ua758",
-            "legend": "q barré diagonal MAJ",
-            "keyboard_code": null,
-            "column": 9,
-            "row": 1
-        },
-        {
-            "character": "\u0363",
-            "keyboard_code": 64,
-            "legend": "a suscrit",
-            "column": 0,
-            "row": 2
-        },
-        {
-            "character": "\u0364",
-            "legend": "e suscrit",
-            "keyboard_code": null,
-            "column": 1,
-            "row": 2
-        },
-        {
-            "character": "\u0365",
-            "legend": "i suscrit",
-            "column": 2,
-            "row": 2
-        },
-        {
-            "character": "\u0366",
-            "legend": "o suscrit",
-            "keyboard_code": null,
-            "column": 3,
-            "row": 2
-        },
-        {
-            "character": "\u0367",
-            "legend": "u suscrit",
-            "keyboard_code": null,
-            "column": 4,
-            "row": 2
-        },
-        {
-            "character": "\u0368",
-            "legend": "c suscrit",
-            "keyboard_code": null,
-            "column": 5,
-            "row": 2
-        },
-        {
-            "character": "\u1ddd",
-            "legend": "L suscrit",
-            "keyboard_code": null,
-            "column": 6,
-            "row": 2
-        },
-        {
-            "character": "\u036b",
-            "legend": "m suscrit",
-            "keyboard_code": null,
-            "column": 0,
-            "row": 3
-        },
-        {
-            "character": "\u1de0",
-            "legend": "n suscrit",
-            "keyboard_code": null,
-            "column": 1,
-            "row": 3
-        },
-        {
-            "character": "\u036c",
-            "legend": "r suscrit",
-            "keyboard_code": null,
-            "column": 2,
-            "row": 3
-        },
-        {
-            "character": "\u1de4",
-            "legend": "s suscrit",
-            "keyboard_code": null,
-            "column": 3,
-            "row": 3
-        },
-        {
-            "character": "\u036d",
-            "legend": "t suscrit",
-            "keyboard_code": null,
-            "column": 4,
-            "row": 3
-        },
-        {
-            "character": "\u036f",
-            "legend": "x suscrit",
-            "keyboard_code": null,
-            "column": 5,
-            "row": 3
-        },
-        {
-            "character": "\uf038",
-            "keyboard_code": null,
-            "column": 6,
-            "row": 3
-        },
-        {
-            "character": "\uefaa",
-            "legend": "ligature ar",
-            "keyboard_code": null,
-            "column": 7,
-            "row": 3
-        },
-        {
-            "character": "\u1dd1",
-            "legend": "ligature ur",
-            "keyboard_code": null,
-            "column": 8,
-            "row": 3
-        }
-    ]
-}
+char,name,replacement,codepoint,mufidecode,ontographe,order
+#r#l’,LATIN SMALL LETTER L WITH STROKE,ł,,,l ,0
+#r#s̵,S STROKE TO Single letter,ẜ,,,s,
+#r#s̶,S STROKE TO Single letter,ẜ,,,s,
+Á,LATIN CAPITAL LETTER A WITH ACUTE,A,,,A,0
+ê,LATIN SMALL LETTER E WITH CIRCUMFLEX,ẽ,,,e,0
+í,LATIN SMALL LETTER I WITH ACUTE,i,,,i,0
+ŧ,LATIN SMALL LETTER T WITH STROKE,t̵,,,t,0
+ẏ,LATIN SMALL LETTER Y WITH DOT ABOVE,y,,,y,0
+ⸯ,VERTICAL TILDE,̾,,,er,
+,LATIN SMALL LETTER I WITH LATIN SMALL LETTER O ABOVE,iͦ,,,io,
+́,COMBINING ACUTE ACCENT,́,,,́,
+̊,COMBINING RING ABOVE,ͦ,,,o,
+̃,COMBINING TILDE,̃,,,,
+̄,COMBINING MACRON,̃,,,,
+᷑,COMBINING UR ABOVE,᷑,,,ur,
+̾,COMBINING VERTICAL TILDE,̾,,,er,
+͛,COMBINING ZIGZAG ABOVE,̾,,,er,
+̅,COMBINING OVERLINE,̃,,,,
+̉,COMBINING HOOK ABOVE,̾,,,er,
+̇,COMBINING DOT ABOVE,̇,0307,,,
+̶,COMBINING LONG STROKE OVERLAY,̵,0336,,,
+#r#\u0335,COMBINING SHORT STROKE OVERLAY,#r#\u0335,0335,,,
+_,LOW LINE,-,,,-,
+-,HYPHEN-MINUS,-,,,-,
+–,EN DASH,-,,,-,
+",",COMMA,",",,,",",
+;,SEMICOLON,:,,,;,
+:,COLON,:,,,:,
+!,EXCLAMATION MARK,,,,!,
+?,QUESTION MARK,,,,?,
+.,FULL STOP,.,,,.,
+·,MIDDLE DOT,.,,,.,
+',APOSTROPHE,',,,',
+’,RIGHT SINGLE QUOTATION MARK,̾,,,re,
+"""",QUOTATION MARK,,,,"""",
+“,LEFT DOUBLE QUOTATION MARK,,,,"""",
+”,RIGHT DOUBLE QUOTATION MARK,,,,"""",
+«,LEFT-POINTING DOUBLE ANGLE QUOTATION MARK,,,,"""",
+»,RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK,,,,"""",
+(,LEFT PARENTHESIS,,,,(,
+),RIGHT PARENTHESIS,,,,),
+[,LEFT SQUARE BRACKET,,,,[,
+],RIGHT SQUARE BRACKET,,,,],
+§,SECTION SIGN,⁋,,,§,
+¶,PILCROW SIGN,¶,,,¶,
+⁋,REVERSED PILCROW SIGN,¶,,,⁋,
+*,ASTERISK,*,,,*,
+/,SOLIDUS,/,,,/,
+&,AMPERSAND,&,,,&,
+⁊,TIRONIAN SIGN ET,⁊,,,et,
+#,NUMBER SIGN,,,,#,
+#r#[0-9],All arabic digits,#r#[0-9],,,0,
+#r#[a-zA-Z],All latin letters (maj and caps),#r#[a-zA-Z],,,,
+•,BULLET,.,,,.,
+°,DEGREE SIGN,ͦ,,,o,
++,PLUS SIGN,+,,,+,
+÷,DIVISION SIGN,÷,,,est,
+<,LESS-THAN SIGN,,,,<,
+=,EQUALS SIGN,=,,,=,
+¬,NOT SIGN,¬,,,,
+∻,HOMOTHETIC,÷,,,est,
+⋅,DOT OPERATOR,.,,,.,
+◌̀,COMBINING GRAVE ACCENT,◌́,,,,
+`,GRAVE ACCENT,◌́,,,,
+◌̈,COMBINING DIAERESIS,◌̈,,,,
+◌̧,COMBINING CEDILLA,◌̧,,,¸,
+◌̣,COMBINING DOT BELOW,,,,,
+◌ᷠ,COMBINING LATIN SMALL LETTER N,ᷠ,,,n,
+◌ͮ,COMBINING LATIN SMALL LETTER V,ͮ,,,v,
+$,DOLLAR SIGN,,,,,
+⁹,SUPERSCRIPT NINE,ꝰ,,,us,
+ͣ,COMBINING LATIN SMALL LETTER A,ͣ,,,a,
+ᵃ,MODIFIER LETTER SMALL A,ͣ,,,a,
+ᷓ,COMBINING LATIN SMALL LETTER FLATTENED OPEN A ABOVE,ͣ,,,a,
+ɑ,LATIN SMALL LETTER ALPHA,a,,,a,
+,LATIN SMALL LETTER B WITH ACUTE,b́,E444,b,,
+ͨ,COMBINING LATIN SMALL LETTER C,ͨ,,,c,
+ḍ,LATIN SMALL LETTER D WITH DOT BELOW,d,,,d,
+ꝺ,LATIN SMALL LETTER INSULAR D,d,,,d,
+ͤ,COMBINING LATIN SMALL LETTER E,ͤ,,,e,
+ᵉ,MODIFIER LETTER SMALL E,ͤ,,,e,
+,LATIN CAPITAL LETTER CLOSED E UNCIAL FORM,E,,,E,
+ﬀ,LATIN SMALL LIGATURE FF,ff,,,ff,
+ﬂ,LATIN SMALL LIGATURE FL,fl,,,fl,
+ħ,LATIN SMALL LETTER H WITH STROKE,ħ,,,h,
+ͥ,COMBINING LATIN SMALL LETTER I,ͥ,,,i,
+ⁱ,SUPERSCRIPT LATIN SMALL LETTER I,ͥ,,,i,
+î,LATIN SMALL LETTER I WITH CIRCUMFLEX,ĩ,,,i,
+ı,LATIN SMALL LETTER DOTLESS I,i,,,i,
+ȷ,LATIN SMALL LETTER DOTLESS J,j,,,j,
+ł,LATIN SMALL LETTER L WITH STROKE,ł,,,l,
+ᷝ,COMBINING LATIN SMALL LETTER L,ᷝ,1DDD,l,,
+ͫ,COMBINING LATIN SMALL LETTER M,ͫ,,,m,
+ͦ,COMBINING LATIN SMALL LETTER O,ͦ,,,o,
+ᵒ,MODIFIER LETTER SMALL O,ͦ,,,o,
+ô,LATIN SMALL LETTER O WITH CIRCUMFLEX,õ,,,o,
+ꝑ,LATIN SMALL LETTER P WITH STROKE THROUGH DESCENDER,ꝑ,,,p,
+Ꝑ,LATIN CAPITAL LETTER P WITH STROKE THROUGH DESCENDER,ꝑ,,,p,
+ꝓ,LATIN SMALL LETTER P WITH FLOURISH,ꝓ,,,p,
+Ꝓ,LATIN CAPITAL LETTER P WITH FLOURISH,ꝓ,,,p,
+ꝙ,LATIN SMALL LETTER Q WITH DIAGONAL STROKE,ꝙ,,,q,
+ꝗ,LATIN SMALL LETTER Q WITH STROKE THROUGH DESCENDER,ꝗ,A757,q,,
+Ꝙ,LATIN CAPITAL LETTER Q WITH DIAGONAL STROKE,Ꝙ,A758,Q,,
+,LATIN SMALL LETTER Q WITH STROKE THROUGH DESCENDER AND TILDE,ꝗ̃,E68B,q,,
+ͬ,COMBINING LATIN SMALL LETTER R,ͬ,,,r,
+ᷣ,COMBINING LATIN SMALL LETTER R ROTUNDA,ͬ,,,r,
+ꝛ,LATIN SMALL LETTER R ROTUNDA,r,,,r,
+ɼ,LATIN SMALL LETTER R WITH LONG LEG,r,,,r,
+ꝵ,LATIN SMALL LETTER RUM,ꝵ,A775,r,,
+ˢ,MODIFIER LETTER SMALL S,ᷤ,,,s,
+ᷤ,COMBINING LATIN SMALL LETTER S,ᷤᷤ,,,s,
+ſ,LATIN SMALL LETTER LONG S,s,,,s,
+ẜ,LATIN SMALL LETTER LONG S WITH DIAGONAL STROKE,ẜ,,,s,
+ͭ,COMBINING LATIN SMALL LETTER T,ͭ,,,t,
+ͧ,COMBINING LATIN SMALL LETTER U,ͧ,,,u,
+ũ,LATIN SMALL LETTER U WITH TILDE,ũ,,,u,
+ͯ,COMBINING LATIN SMALL LETTER X,,036F,x,,
+ỹ,LATIN SMALL LETTER Y WITH TILDE,y,,,y,
+ʑ,LATIN SMALL LETTER Z WITH CURL,z,,,z,
+ƺ,LATIN SMALL LETTER EZH WITH TAIL,z,,,z,
+᷒,COMBINING US ABOVE,ꝰ,,,us,
+ꝯ,LATIN SMALL LETTER CON,ꝯ,,,con,
+ꝰ,MODIFIER LETTER US,ꝰ,,,us,
+ˀ,MODIFIER LETTER GLOTTAL STOP,,,,,
+α,GREEK SMALL LETTER ALPHA,α,,,a,
+β,GREEK SMALL LETTER BETA,β,,,b,
+δ,GREEK SMALL LETTER DELTA,δ,,,d,
+ζ,GREEK SMALL LETTER ZETA,ζ,,,z,
+ι,GREEK SMALL LETTER IOTA,ι,,,i,
+κ,GREEK SMALL LETTER KAPPA,κ,,,k,
+Λ,GREEK CAPITAL LETTER LAMDA,Λ,,,L,
+τ,GREEK SMALL LETTER TAU,τ,,,t,
+ք,ARMENIAN SMALL LETTER KEH,ꝑ,,,p,
+,LATIN SMALL LETTER N WITH MEDIUM-HIGH MACRON (ABOVE CHARACTER),ñ,,,n,
+,LATIN SMALL LETTER P WITH MACRON,p̃,,,p,
+,LATIN SMALL LETTER Q WITH MACRON,q̃,,,q,
+,COMBINING HIGH MACRON WITH FIXED HEIGHT (PART-WIDTH),̃,,,,
+,COMBINING LATIN SMALL LIGATURE AR,,,,ar,
+,LATIN SMALL LETTER LONG S DESCENDING,s,,,s,
+,LATIN SMALL LETTER S CLOSED FORM,s,,,s,
+,LATIN ABBREVIATION SIGN SMALL ET WITH STROKE,⁊,,,et,
+,PUNCTUS ELEVATUS,;,,,;,
+,LATIN ABBREVIATION SIGN SPACING BASE-LINE US,ꝰ,,,us,
+,LATIN ABBREVIATION SIGN CAPITAL ET WITH STROKE,⁊,,,ET,
+,LATIN ABBREVIATION SIGN SEMICOLON,,F1AC,;,,
+#r#\uFEFF,ZERO WIDTH NO-BREAK SPACE,,,,,
+#r#\u200B,ZERO WIDTH SPACE,,,,,
+,WEIRD ZIG ZAG DIVIDING SIGN,÷,,,est,
+\,REVERSE SOLIDUS,,005C,\,,
+|,VERTICAL LINE,,007C,,,
+đ,LATIN SMALL LETTER D WITH STROKE,d̵,0111,d,,
+◌,DOTTED CIRCLE,,25CC,*,,
+,PUNCTUS INTERROGATIVUS,:,F160,!,,
