@@ -14,6 +14,11 @@ authors:
   roles:
   - project-manager
   - quality-control
+- name: Vlachou Efstathiou
+  surname: Malamatenia
+  roles:
+    - transcriber
+    - aligner
 description: 'Middle Ages'' manuscripts in Latin.
 
   '
