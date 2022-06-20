@@ -1,4 +1,4 @@
-schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: "CREMMA Manuscrits m\xE9di\xE9vaux latins"
 url: https://github.com/HTR-United/CREMMA-Medieval-LAT
 project-name: CREMMA
@@ -20,7 +20,7 @@ description: 'Middle Ages'' manuscripts in Latin.
 language:
 - lat
 script:
-- Latn
+- iso: Latn
 script-type: only-manuscript
 time:
   notBefore: '1000'
@@ -42,3 +42,4 @@ volume:
 - metric: regions
   count: 113
 transcription-guidelines: "Abr\xE9viations conserv\xE9es."
+production-software: "eScriptorium + Kraken"

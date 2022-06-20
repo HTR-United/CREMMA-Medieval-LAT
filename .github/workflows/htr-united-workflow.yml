@@ -65,7 +65,7 @@ jobs:
         pip install htr-united-metadata-generator htruc anybadge
     - name: Run Report
       run: |
-        humGenerator --group data/**/*.xml --github-envs --to-json updated_metrics.json
+        humGenerator --parse alto --group ./data/**/*.xml --github-envs --to-json updated_metrics.json --chars -n NFD
         cat envs.txt >> $GITHUB_ENV
     - name: Get HTR United Badge Template
       if: github.ref == 'refs/heads/main'
