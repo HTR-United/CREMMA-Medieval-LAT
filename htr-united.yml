@@ -17,8 +17,8 @@ authors:
 - name: Vlachou Efstathiou
   surname: Malamatenia
   roles:
-    - transcriber
-    - aligner
+  - transcriber
+  - aligner
 description: 'Middle Ages'' manuscripts in Latin.
 
   '
@@ -39,7 +39,7 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 50525
+  count: 51105
 - metric: files
   count: 27
 - metric: lines
@@ -47,4 +47,113 @@ volume:
 - metric: regions
   count: 112
 transcription-guidelines: "Abr\xE9viations conserv\xE9es."
-production-software: "eScriptorium + Kraken"
+production-software: eScriptorium + Kraken
+characters:
+  mode: NFD
+  members:
+  - i
+  - e
+  - t
+  - a
+  - u
+  - s
+  - o
+  - "\u0303"
+  - n
+  - r
+  - c
+  - l
+  - m
+  - d
+  - p
+  - .
+  - q
+  - "\u033E"
+  - b
+  - f
+  - g
+  - h
+  - "\u204A"
+  - "\uF1AC"
+  - "\uA770"
+  - "\u0363"
+  - ':'
+  - "\uA751"
+  - "\uA76F"
+  - x
+  - "\uA759"
+  - A
+  - S
+  - I
+  - N
+  - "\u1DD1"
+  - Q
+  - "\u0142"
+  - C
+  - "\uA775"
+  - "\u0365"
+  - P
+  - "\u0366"
+  - V
+  - D
+  - E
+  - "\u036D"
+  - "\uA753"
+  - "\u0364"
+  - "\u036B"
+  - "\u0336"
+  - '&'
+  - T
+  - "\u0127"
+  - y
+  - "\u1DE4"
+  - H
+  - v
+  - F
+  - "\xB6"
+  - M
+  - R
+  - "\u0368"
+  - O
+  - L
+  - "\u036C"
+  - j
+  - G
+  - "\u1DDD"
+  - "\u0327"
+  - ''''
+  - B
+  - "\u1DE0"
+  - "\u036F"
+  - '*'
+  - "\uA757"
+  - ','
+  - "\u0367"
+  - "\uF160"
+  - J
+  - "\uA758"
+  - z
+  - '4'
+  - '9'
+  - U
+  - '1'
+  - "\u0308"
+  - ;
+  - "\u0111"
+  - '2'
+  - '8'
+  - k
+  - '5'
+  - '|'
+  - X
+  - \
+  - '?'
+  - '3'
+  - '`'
+  - "\u0307"
+  - "\u1E9C"
+  - '6'
+  - "\u25CC"
+  - "\uE68B"
+  - "\_"
+  - "\uE444"
