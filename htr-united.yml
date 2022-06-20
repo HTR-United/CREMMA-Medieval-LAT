@@ -34,12 +34,12 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 46043
+  count: 50525
 - metric: files
   count: 27
 - metric: lines
   count: 1552
 - metric: regions
-  count: 113
+  count: 112
 transcription-guidelines: "Abr\xE9viations conserv\xE9es."
 production-software: "eScriptorium + Kraken"
