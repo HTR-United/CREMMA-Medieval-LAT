@@ -15,6 +15,7 @@ CREMMA HTR GT for medieval latin manuscripts
 | 4 pages | [Latin 16195](https://gallica.bnf.fr/ark:/12148/btv1b9067171j) | Questiones De Coitu | 1250-1300 | Microfilm |
 | 5 pages | [CCCC MSS 236](https://parker.stanford.edu/parker/catalog/jf942rk0336) | Martial, Book 1: pr, 3, 4, 6, 15, 8-10, 13-14, 16, 19-20, 18, 21-25, 28, 33-34, 37, 40, 42-48  | 1200 - 1225 | Color | 
 | 5 pages | [Arras 861](http://medium-avance.irht.cnrs.fr/ark:/63955/md4947429d6v) | Seneca, Ad Lucilium, 121-122 | 1301-1399 | Color |
+| 5 pages | [CLM 13027](https://www.digitale-sammlungen.de/de/view/bsb00042773?page=78,79) | Liber minor de Coitu. Galien, De Crisibus | 1250-1300 | Color |
 
 ## Lines count
 
