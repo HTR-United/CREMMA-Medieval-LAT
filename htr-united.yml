@@ -38,13 +38,13 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 130146
+  count: 140671
 - metric: files
-  count: 45
+  count: 50
 - metric: lines
-  count: 3418
+  count: 3871
 - metric: regions
-  count: 189
+  count: 203
 transcription-guidelines: "Abr\xE9viations conserv\xE9es."
 production-software: eScriptorium + Kraken
 characters:
@@ -64,13 +64,13 @@ characters:
   - d
   - m
   - l
-  - .
   - p
+  - .
   - "\u033E"
   - b
   - q
-  - g
   - f
+  - g
   - "\u204A"
   - "\uA770"
   - h
@@ -82,37 +82,39 @@ characters:
   - "\u1DD1"
   - "\u0142"
   - "\uA76F"
-  - ':'
   - "\u1DE4"
+  - ':'
   - "\uA759"
   - "\u0366"
   - "\uA775"
   - S
   - I
-  - N
   - A
-  - Q
-  - E
-  - C
+  - N
   - "\uA753"
+  - E
+  - Q
+  - C
+  - v
   - "\u0127"
   - V
   - y
-  - M
   - D
-  - "\uA757"
+  - M
   - "\u1E9C"
+  - "\uA757"
+  - "\u0364"
   - P
   - "\u204B"
   - T
-  - "\u0364"
-  - v
   - "\u0336"
-  - R
   - "\u036D"
+  - R
   - z
-  - H
+  - /
   - "\u036B"
+  - H
+  - "\uA76D"
   - L
   - '&'
   - F
@@ -122,33 +124,35 @@ characters:
   - "\u2125"
   - G
   - "\u2038"
+  - "\u1DDD"
   - "\u036C"
+  - "\u0367"
   - "\u1DE0"
   - "\uA758"
   - j
-  - "\u0307"
-  - "\u1DDD"
   - B
-  - "\u0367"
+  - "\u0307"
   - "\u036F"
+  - '2'
+  - '3'
   - '1'
   - "\u0327"
   - ''''
   - X
   - "\u1D48"
   - '9'
-  - '*'
   - '4'
-  - '3'
+  - '*'
   - U
   - ','
   - '8'
   - "\uF160"
-  - '2'
   - "\uF2DA"
+  - k
   - J
   - "\xF7"
   - Y
+  - "\u1D47"
   - '5'
   - '6'
   - "\u0308"
@@ -157,7 +161,6 @@ characters:
   - Z
   - "\u0111"
   - "\u0399"
-  - k
   - '|'
   - \
   - '?'
@@ -169,5 +172,6 @@ characters:
   - "\uE68B"
   - "\_"
   - "\uE444"
+  - "\u03BF"
   - "\u0300"
   - '7'
