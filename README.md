@@ -16,6 +16,8 @@ CREMMA HTR GT for medieval latin manuscripts
 | 5 pages | [CCCC MSS 236](https://parker.stanford.edu/parker/catalog/jf942rk0336) | Martial, Book 1: pr, 3, 4, 6, 15, 8-10, 13-14, 16, 19-20, 18, 21-25, 28, 33-34, 37, 40, 42-48  | 1200 - 1225 | Color | 
 | 5 pages | [Arras 861](http://medium-avance.irht.cnrs.fr/ark:/63955/md4947429d6v) | Seneca, Ad Lucilium, 121-122 | 1301-1399 | Color |
 | 5 pages | [CLM 13027](https://www.digitale-sammlungen.de/de/view/bsb00042773?page=78,79) | Liber minor de Coitu. Galien, De Crisibus | 1250-1300 | Color |
+| 5 pages | [Montpellier, H318](https://bvmm.irht.cnrs.fr/consult/consult.php?REPRODUCTION_ID=17936) | Anonyme, *De urinis*, Recettes, Constantinus, *Libert de coitu*, Bartholomeus Salernitanus, *Practica* | 1100-1299 | Color |
+| 5 pages | [Phil., Col. of Phys. 10a135](https://openn.library.upenn.edu/Data/0027/html/cpp_10a_135.html) | *Tractatus de Sterilitate* | 1300-1399 | Color |
 
 ## Lines count
 
@@ -25,6 +27,8 @@ CREMMA HTR GT for medieval latin manuscripts
 |                                 | DefaultLine     | 357     |
 | ./data/CCCC-MSS-236             | HeadingLine     | 31      |
 |                                 | DefaultLine     | 161     |
+| ./data/CLM13027                 | DefaultLine     | 616     |
+| ./data/H318                     | DefaultLine     | 427     |
 | ./data/Latin16195               | DefaultLine     | 449     |
 | ./data/Latin6395                | DefaultLine     | 681     |
 | ./data/Latin8236                | HeadingLine     | 1       |
@@ -33,3 +37,7 @@ CREMMA HTR GT for medieval latin manuscripts
 | ./data/LaurentianusPletus33.31  | DefaultLine     | 204     |
 | ./data/LaurentianusPluteus39.34 | HeadingLine     | 15      |
 |                                 | DefaultLine     | 120     |
+| ./data/Phi_10a135               | DefaultLine     | 142     |
+| -----                           | -----           | -----   |
+| All                             | All             | 3418    |
+
