@@ -19,6 +19,7 @@ CREMMA HTR GT for medieval latin manuscripts
 | 5 pages | [Montpellier, H318](https://bvmm.irht.cnrs.fr/consult/consult.php?REPRODUCTION_ID=17936) | Anonyme, *De urinis*, Recettes, Constantinus, *Libert de coitu*, Bartholomeus Salernitanus, *Practica* | 1100-1299 | Color |
 | 5 pages | [Phil., Col. of Phys. 10a135](https://openn.library.upenn.edu/Data/0027/html/cpp_10a_135.html) | *Tractatus de Sterilitate* | 1300-1399 | Color |
 | 4 pages | [Vat. Pal. Lat. 373](https://scta.lombardpress.org/text?resourceid=http://scta.info/resource/pal) | Plaoul, *De Fide*, Lectio 1-2 | 1400-1499 | Microfilm |
+| 4 pages | [Laurentianus Pluteus 53.08](http://mss.bmlonline.it/s.aspx?Id=AWOIfbebI1A4r7GxMIYg&c=Donati%20Expositio%20in%20Terentium#/oro/11) | Donat, *In Phormionem Terenti commentum* | 1400-1499 | Color |
 
 ## Credits
 
@@ -39,13 +40,15 @@ CREMMA HTR GT for medieval latin manuscripts
 | ./data/Latin8236                | HeadingLine     | 1       |
 |                                 | DropCapitalLine | 1       |
 |                                 | DefaultLine     | 212     |
-| ./data/LaurentianusPletus33.31  | DefaultLine     | 204     |
+| ./data/LaurentianusPluteus33.31 | DefaultLine     | 204     |
 | ./data/LaurentianusPluteus39.34 | HeadingLine     | 15      |
 |                                 | DefaultLine     | 120     |
+| ./data/LaurentianusPluteus53.05 | DefaultLine     | 245     |
 | ./data/PalLat373                | Not specified   | 94      |
 |                                 | DefaultLine     | 359     |
 | ./data/Phi_10a135               | DefaultLine     | 142     |
 | -----                           | -----           | -----   |
-| All                             | All             | 3871    |
+| All                             | All             | 4116    |
+
 
 
