@@ -19,6 +19,7 @@ CREMMA HTR GT for medieval latin manuscripts
 | 5 pages | Laurentianus Pluteus 39.34 | Priapea, 01-16 | 1400-1499 | Color |
 | 4 pages | [Vat. Pal. Lat. 373](https://scta.lombardpress.org/text?resourceid=http://scta.info/resource/pal) | Plaoul, *De Fide*, Lectio 1-2 | 1400-1499 | Microfilm |
 | 4 pages | [Laurentianus Pluteus 53.08](http://mss.bmlonline.it/s.aspx?Id=AWOIfbebI1A4r7GxMIYg&c=Donati%20Expositio%20in%20Terentium#/oro/11) | Donat, *In Phormionem Terenti commentum* | 1400-1499 | Color |
+| 4 pages | [Laurentianus Pluteus 53.09](http://mss.bmlonline.it/s.aspx?Id=AWOIfKr_I1A4r7GxMIMg&c=Donati%20Expositio%20in%20Terentium#/oro/17) | Donat, *In Phormionem Terenti commentum* | 1400-1499 | Color |
 | 5 pages | [Latin 8236](https://gallica.bnf.fr/ark:/12148/btv1b100353403) | Prudentius, 3.1-3.2, 3.16-3.17, 4.4-4.5; Tibullus, 3.7.74-3.7.114, 3.7.199-3.9.3 | 1471-1499 | Microfilm |
 
 ## Credits
@@ -43,12 +44,14 @@ CREMMA HTR GT for medieval latin manuscripts
 | ./data/LaurentianusPluteus33.31 | DefaultLine     | 204     |
 | ./data/LaurentianusPluteus39.34 | HeadingLine     | 15      |
 |                                 | DefaultLine     | 120     |
-| ./data/LaurentianusPluteus53.05 | DefaultLine     | 245     |
+| ./data/LaurentianusPluteus53.08 | DefaultLine     | 245     |
+| ./data/LaurentianusPluteus53.09 | Not specified   | 1       |
+|                                 | DefaultLine     | 157     |
 | ./data/PalLat373                | Not specified   | 94      |
 |                                 | DefaultLine     | 359     |
 | ./data/Phi_10a135               | DefaultLine     | 142     |
 | -----                           | -----           | -----   |
-| All                             | All             | 4116    |
+| All                             | All             | 4274    |
 
 
 
