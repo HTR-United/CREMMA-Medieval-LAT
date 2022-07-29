@@ -38,13 +38,13 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 158087
+  count: 166814
 - metric: files
-  count: 54
+  count: 59
 - metric: lines
-  count: 4116
+  count: 4274
 - metric: regions
-  count: 227
+  count: 234
 transcription-guidelines: "Abr\xE9viations conserv\xE9es."
 production-software: eScriptorium + Kraken
 characters:
@@ -69,8 +69,8 @@ characters:
   - "\u033E"
   - b
   - q
-  - f
   - g
+  - f
   - "\u204A"
   - "\uF1AC"
   - h
@@ -86,12 +86,12 @@ characters:
   - ':'
   - "\uA759"
   - "\u0366"
-  - "\uA775"
   - S
+  - "\uA775"
   - I
   - "\uA757"
-  - A
   - N
+  - A
   - E
   - "\uA753"
   - Q
@@ -101,48 +101,49 @@ characters:
   - "\u0127"
   - y
   - "\u1E9C"
-  - P
   - M
   - D
+  - P
   - "\u0364"
   - "\u0336"
-  - "\u204B"
   - T
+  - "\u204B"
   - "\u036D"
+  - '&'
   - R
   - z
   - /
   - "\u036B"
   - H
-  - "\uA76D"
+  - "\xAC"
   - F
   - L
-  - '&'
+  - "\uA76D"
   - O
   - "\xB6"
   - "\u0368"
   - "\u2125"
-  - G
   - "\u2038"
+  - G
   - "\u1DDD"
   - "\u036C"
-  - "\xAC"
   - "\u1DE0"
   - "\u0367"
+  - B
   - "\uA758"
   - j
-  - B
   - "\u0307"
   - '1'
   - '2'
-  - "\u036F"
   - '3'
+  - "\u036F"
   - ','
   - "\u0327"
   - X
+  - '9'
   - ''''
   - "\u1D48"
-  - '9'
+  - "\u0328"
   - '4'
   - '*'
   - U
