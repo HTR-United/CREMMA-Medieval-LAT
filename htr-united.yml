@@ -38,13 +38,13 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 171822
+  count: 199024
 - metric: files
-  count: 63
+  count: 69
 - metric: lines
-  count: 4388
+  count: 5277
 - metric: regions
-  count: 238
+  count: 295
 transcription-guidelines: "Abr\xE9viations conserv\xE9es."
 production-software: eScriptorium + Kraken
 characters:
@@ -59,8 +59,8 @@ characters:
   - "\u0303"
   - o
   - n
-  - r
   - c
+  - r
   - d
   - m
   - l
@@ -75,96 +75,104 @@ characters:
   - "\uF1AC"
   - h
   - "\uA770"
-  - x
-  - "\uA751"
-  - "\u0365"
   - "\u0363"
-  - "\u1DD1"
-  - I
+  - "\u0365"
+  - "\uA751"
+  - x
   - "\u0142"
+  - "\u1DD1"
   - "\uA76F"
+  - "\uA759"
+  - I
+  - "\u0366"
+  - v
   - "\u1DE4"
   - ':'
-  - "\uA759"
-  - "\u0366"
-  - S
   - "\uA775"
-  - N
-  - "\uA757"
-  - A
-  - C
-  - E
-  - Q
+  - S
   - "\uA753"
+  - E
+  - N
+  - A
+  - "\uA757"
+  - "\u0364"
+  - C
+  - Q
   - V
-  - v
+  - "\u036D"
+  - "\u204B"
+  - "\u036B"
   - "\u0127"
+  - "\u1E9C"
+  - "\u0368"
   - y
+  - P
   - D
   - M
-  - "\u1E9C"
-  - P
-  - "\u0364"
+  - "\u1D48"
+  - "\uA76D"
   - T
   - "\u0336"
-  - "\u204B"
-  - "\u036D"
-  - '&'
+  - "\u1DDD"
+  - "\u2038"
   - R
-  - z
   - /
-  - "\u036B"
+  - '&'
+  - z
+  - "\u036C"
+  - '2'
   - H
   - "\xAC"
   - L
+  - "\u2248"
+  - "\u0367"
   - F
-  - "\uA76D"
   - O
   - "\xB6"
-  - "\u0368"
+  - '3'
+  - '4'
   - G
+  - '1'
   - "\u2125"
-  - "\u2038"
-  - "\u1DDD"
-  - "\u036C"
   - "\u1DE0"
-  - "\u0367"
+  - '?'
+  - "\u2184"
   - B
   - "\uA758"
   - j
-  - "\u0307"
-  - '1'
-  - '2'
-  - '3'
-  - "\u036F"
-  - ','
-  - "\u0327"
-  - X
   - '9'
+  - "\xD8"
+  - "\u0307"
+  - "\u036F"
+  - X
+  - "\u0327"
+  - ','
   - ''''
-  - "\u1D48"
   - "\u0328"
-  - '4'
-  - '*'
-  - U
-  - '8'
-  - "\uF160"
-  - "\uF2DA"
-  - k
-  - J
-  - "\xF7"
-  - Y
-  - '0'
   - "\u1D47"
+  - '0'
   - '5'
   - '6'
+  - '8'
+  - k
+  - '*'
+  - U
+  - "\uF160"
+  - "\uF2DA"
+  - J
+  - '7'
+  - "\xF7"
+  - Y
   - "\u0308"
   - ;
+  - +
   - Z
   - "\u0111"
   - '|'
   - \
-  - '?'
+  - (
+  - )
+  - "\xA7"
   - '`'
   - "\u1D56"
   - "\uF038"
@@ -175,4 +183,3 @@ characters:
   - "\uE444"
   - "\u03BF"
   - "\u0300"
-  - '7'
