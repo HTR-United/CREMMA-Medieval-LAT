@@ -23,6 +23,7 @@ CREMMA HTR GT for medieval latin manuscripts
 | 4 pages | [Laurentianus Pluteus 53.09](http://mss.bmlonline.it/s.aspx?Id=AWOIfKr_I1A4r7GxMIMg&c=Donati%20Expositio%20in%20Terentium#/oro/17) | Donat, *In Phormionem Terenti commentum* | 1400-1499 | Color |
 | 5 pages | [Latin 8236](https://gallica.bnf.fr/ark:/12148/btv1b100353403) | Prudentius, 3.1-3.2, 3.16-3.17, 4.4-4.5; Tibullus, 3.7.74-3.7.114, 3.7.199-3.9.3 | 1471-1499 | Microfilm |
 | 5 pages | [BIS 193](http://www.calames.abes.fr/pub/#details?id=UNIA10429) | Adam Wodeham, *Ordinatio*, Liber IV, Quaestio 6. | 1300 - 1399 | Color |
+| 5 pages | [CCCC MSS 165](https://parker.stanford.edu/parker/catalog/rw051yd4696) | Peter Abelard, Sic et non | 1500 - 1599 | Color |
 
 ## Credits
 
