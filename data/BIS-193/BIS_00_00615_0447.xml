@@ -127,7 +127,7 @@
                     WIDTH="932"
                     HEIGHT="79">
             <Shape><Polygon POINTS="252 595 252 620 355 607 425 616 438 616 441 616 546 611 776 598 805 600 850 607 852 607 855 607 857 607 866 598 873 595 938 595 1138 600 1140 600 1143 600 1181 586 1181 575 1174 541 249 557 252 595"/></Shape>
-	    <String CONTENT="obutꝰ ?e? tã de quod̾ veniali ꝯĩsso qmͣ d̾ quodã"
+	    <String CONTENT="oblitꝰ ÷ tã de quod̾ veniali ꝯĩsso qmͣ d̾ quodã"
                     HPOS="249"
                     VPOS="541"
                     WIDTH="932"
@@ -960,7 +960,7 @@
                     WIDTH="975"
                     HEIGHT="75">
             <Shape><Polygon POINTS="270 2712 270 2739 1239 2716 1242 2696 1235 2664 267 2673 270 2712"/></Shape>
-	    <String CONTENT="sioĩs ?e? neᵈ ͣ qr l atũs a. sit in 2 ᷝ ͦ r̾issior atũ b vm̾"
+	    <String CONTENT="sioĩs ÷ neᵈ ͣ qr l atũs a. sit in 2 ᷝ ͦ r̾issior atũ b vm̾"
                     HPOS="267"
                     VPOS="2664"
                     WIDTH="975"
@@ -994,7 +994,7 @@
                     WIDTH="961"
                     HEIGHT="74">
             <Shape><Polygon POINTS="603 2752 587 2752 585 2752 582 2752 580 2752 564 2763 456 2754 445 2757 423 2757 409 2757 265 2766 267 2804 267 2826 510 2824 513 2824 515 2824 540 2811 749 2811 760 2820 767 2824 769 2824 771 2824 774 2824 776 2824 792 2820 814 2811 886 2817 938 2822 940 2822 1003 2815 1028 2813 1030 2815 1039 2822 1039 2824 1041 2824 1044 2824 1046 2824 1224 2811 1226 2797 1224 2766 697 2752 695 2752 693 2752 690 2752 675 2761 666 2754 666 2752 663 2752 661 2752 625 2752 603 2752"/></Shape>
-	    <String CONTENT="istũ acm̃ a. ꝙͣ hñs b. ⁊ tñ pcc ͫ a. ?e? ĩ 2 ᷝ ͦ miꝰ ꝙͣ pccm̃"
+	    <String CONTENT="istũ acm̃ a. ꝙͣ hñs b. ⁊ tñ pcc ͫ a. ÷ ĩ 2 ᷝ ͦ miꝰ ꝙͣ pccm̃"
                     HPOS="265"
                     VPOS="2752"
                     WIDTH="961"
@@ -2577,7 +2577,7 @@
                     WIDTH="112"
                     HEIGHT="95">
             <Shape><Polygon POINTS="2336 1582 2336 1636 2448 1619 2448 1582 2448 1541 2336 1541 2336 1582"/></Shape>
-	    <String CONTENT="qr ñ ?e?"
+	    <String CONTENT="qr ñ ÷"
                     HPOS="2336"
                     VPOS="1541"
                     WIDTH="112"
@@ -2790,9 +2790,13 @@
           
         </TextBlock>
         
-
-        
-        <TextBlock ID="eSc_dummyblock_">
+        <TextBlock HPOS="2742"
+                   VPOS="3786"
+                   WIDTH="69"
+                   HEIGHT="101"
+                   ID="eSc_textblock_e71f7020"
+                   TAGREFS="BT4260">
+          <Shape><Polygon POINTS="2742 3786 2742 3887 2811 3887 2811 3786"/></Shape>
           
           
           <TextLine ID="eSc_line_2f5d1f6b"
@@ -2802,8 +2806,8 @@
                     VPOS="3791"
                     WIDTH="70"
                     HEIGHT="86">
-            <Shape><Polygon POINTS="2779 3811 2756 3800 2756 3791 2734 3798 2731 3836 2727 3877 2790 3870 2794 3843 2797 3807 2779 3798 2779 3811"/></Shape>
-	    <String CONTENT=""
+            <Shape><Polygon POINTS="2756 3800 2756 3791 2734 3798 2731 3836 2727 3877 2790 3870 2794 3843 2797 3807 2779 3798 2779 3811"/></Shape>
+	    <String CONTENT="e"
                     HPOS="2727"
                     VPOS="3791"
                     WIDTH="70"
@@ -2812,6 +2816,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
