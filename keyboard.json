@@ -1,248 +1,277 @@
 {
     "version": "1.0",
-    "name": "CremmaLab adapté au latin",
+    "name": "CremmaLab latin",
     "author": "Thibault Clérice <thibault.clerice@chartes.psl.eu>",
     "characters": [
         {
-            "character": "\u204a",
+            "character": "⁊",
             "keyboard_code": 55,
             "column": 0,
             "row": 0
         },
         {
-            "character": "\ua76f",
+            "character": "ꝯ",
             "keyboard_code": 57,
             "column": 1,
             "row": 0
         },
         {
-            "character": "\ua770",
+            "character": "ꝰ",
             "keyboard_code": 56,
             "column": 2,
             "row": 0
         },
         {
-            "character": "\u033e",
+            "character": "̾",
             "legend": "tilde verticale",
             "keyboard_code": 39,
             "column": 3,
             "row": 0
         },
         {
-            "character": "\u0303",
+            "character": "̃",
             "legend": "tilde horizontale",
             "keyboard_code": 95,
             "column": 4,
             "row": 0
         },
         {
-            "character": "\u0307",
+            "character": "̇",
             "legend": "Point suscrit",
             "keyboard_code": null,
             "column": 5,
             "row": 0
         },
         {
-            "character": "\u00f7",
+            "character": "÷",
             "keyboard_code": null,
             "column": 6,
             "row": 0
         },
         {
-            "character": "\uf1ac",
+            "character": "",
             "legend": "semi-colon",
             "keyboard_code": 59,
             "column": 7,
             "row": 0
         },
         {
-            "character": "\u2038",
+            "character": "‸",
             "keyboard_code": null,
             "column": 8,
             "row": 0
         },
         {
-            "character": "\u00b6",
+            "character": "ę",
             "keyboard_code": null,
             "column": 9,
             "row": 0
         },
         {
-            "character": "\u0336",
+            "character": "̶",
             "legend": "barre horizontale",
             "keyboard_code": 45,
             "column": 0,
             "row": 1
         },
         {
-            "character": "\u0127",
+            "character": "ħ",
             "keyboard_code": null,
             "column": 1,
             "row": 1
         },
         {
-            "character": "\u0142",
+            "character": "ł",
             "keyboard_code": 93,
             "column": 2,
             "row": 1
         },
         {
-            "character": "\ua751",
+            "character": "ꝑ",
             "keyboard_code": 91,
             "column": 3,
             "row": 1
         },
         {
-            "character": "\ua753",
+            "character": "ꝓ",
             "keyboard_code": 41,
             "column": 4,
             "row": 1
         },
         {
-            "character": "\u1e9c",
+            "character": "ẜ",
             "keyboard_code": null,
             "legend": "S barré",
             "column": 5,
             "row": 1
         },
-
         {
-            "character": "\ua775",
+            "character": "ꝵ",
             "legend": "ABR. rum",
             "keyboard_code": 52,
             "column": 6,
             "row": 1
         },
         {
-            "character": "\ua757",
+            "character": "ꝗ",
             "legend": "q barré vertical",
             "keyboard_code": null,
             "column": 7,
             "row": 1
         },
         {
-            "character": "\ua759",
+            "character": "ꝙ",
             "legend": "q barré diagonal",
             "keyboard_code": 47,
             "column": 8,
             "row": 1
         },
         {
-            "character": "\ua758",
+            "character": "Ꝙ",
             "legend": "q barré diagonal MAJ",
             "keyboard_code": null,
             "column": 9,
             "row": 1
         },
         {
-            "character": "\u0363",
+            "character": "ͣ",
             "keyboard_code": 64,
             "legend": "a suscrit",
             "column": 0,
             "row": 2
         },
         {
-            "character": "\u0364",
+            "character": "ͤ",
             "legend": "e suscrit",
             "keyboard_code": null,
             "column": 1,
             "row": 2
         },
         {
-            "character": "\u0365",
+            "character": "ͥ",
             "legend": "i suscrit",
             "column": 2,
             "row": 2
         },
         {
-            "character": "\u0366",
+            "character": "ͦ",
             "legend": "o suscrit",
             "keyboard_code": null,
             "column": 3,
             "row": 2
         },
         {
-            "character": "\u0367",
+            "character": "ͧ",
             "legend": "u suscrit",
             "keyboard_code": null,
             "column": 4,
             "row": 2
         },
         {
-            "character": "\u0368",
+            "character": "ͨ",
             "legend": "c suscrit",
             "keyboard_code": null,
             "column": 5,
             "row": 2
         },
         {
-            "character": "\u1ddd",
+            "character": "ᷝ",
             "legend": "L suscrit",
             "keyboard_code": null,
             "column": 6,
             "row": 2
         },
         {
-            "character": "\u036b",
+            "character": "ͫ",
             "legend": "m suscrit",
             "keyboard_code": null,
             "column": 0,
             "row": 3
         },
         {
-            "character": "\u1de0",
+            "character": "ᷠ",
             "legend": "n suscrit",
             "keyboard_code": null,
             "column": 1,
             "row": 3
         },
         {
-            "character": "\u036c",
+            "character": "ͬ",
             "legend": "r suscrit",
             "keyboard_code": null,
             "column": 2,
             "row": 3
         },
         {
-            "character": "\u1de4",
+            "character": "ᷤ",
             "legend": "s suscrit",
             "keyboard_code": null,
             "column": 3,
             "row": 3
         },
         {
-            "character": "\u036d",
+            "character": "ͭ",
             "legend": "t suscrit",
             "keyboard_code": null,
             "column": 4,
             "row": 3
         },
         {
-            "character": "\u036f",
+            "character": "ͯ",
             "legend": "x suscrit",
             "keyboard_code": null,
             "column": 5,
             "row": 3
         },
         {
-            "character": "\uf038",
+            "character": "",
             "keyboard_code": null,
             "column": 6,
             "row": 3
         },
         {
-            "character": "\uefaa",
+            "character": "",
             "legend": "ligature ar",
             "keyboard_code": null,
             "column": 7,
             "row": 3
         },
         {
-            "character": "\u1dd1",
+            "character": "᷑",
             "legend": "ligature ur",
             "keyboard_code": null,
             "column": 8,
             "row": 3
+        },
+        {
+            "row": 2,
+            "column": 7,
+            "character": "ᵈ"
+        },
+        {
+            "row": 2,
+            "column": 8,
+            "character": "ᵖ"
+        },
+        {
+            "row": 2,
+            "column": 9,
+            "character": "ᵇ"
+        },
+        {
+            "row": 3,
+            "column": 9,
+            "character": "ꝭ"
+        },
+        {
+            "row": 1,
+            "column": 10,
+            "character": "ↄ"
+        },
+        {
+            "row": 2,
+            "column": 10,
+            "character": "Ø"
         }
     ]
 }
