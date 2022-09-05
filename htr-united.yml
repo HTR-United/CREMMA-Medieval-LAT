@@ -1,52 +1,62 @@
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: "CREMMA Manuscrits m\xE9di\xE9vaux latins"
+title: CREMMA Medieval Latin Manuscripts
 url: https://github.com/HTR-United/CREMMA-Medieval-LAT
-project-name: CREMMA
 authors:
-- name: "Cl\xE9rice"
-  surname: Thibault
-  roles:
-  - project-manager
-  - quality-control
-  - transcriber
-- name: "Chagu\xE9"
-  surname: Alix
-  roles:
-  - project-manager
-- name: Vlachou Efstathiou
-  surname: Malamatenia
-  roles:
-  - transcriber
-  - aligner
-description: 'Middle Ages'' manuscripts in Latin.
-
-  '
-language:
-- lat
+  - name: Cl\xE9rice
+    surname: Thibault
+    orcid: 0000-0003-1852-9204
+    roles:
+      - transcriber
+      - aligner
+      - project-manager
+      - quality-control
+  - name: Chagu\xE9
+    surname: Alix
+    orcid: 0000-0002-0136-4434
+    roles:
+      - project-manager
+  - name: Vlachou Efstathiou
+    surname: Malamatenia
+    orcid: 0000-0002-9397-356X
+    roles:
+      - transcriber
+      - aligner
+institutions: []
+description: Ground truth for medieval latin manuscripts
+project-name: CREMMA
+language: []
+production-software: eScriptorium + Kraken
 script:
-- iso: Latn
+  - iso: Latn
 script-type: only-manuscript
 time:
-  notBefore: '1000'
-  notAfter: '1450'
+  notBefore: '1100'
+  notAfter: '1599'
 hands:
   count: 1-per-folder
   precision: exact
 license:
-- name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 volume:
-- metric: characters
-  count: 235531
-- metric: files
-  count: 83
-- metric: lines
-  count: 6411
-- metric: regions
-  count: 365
-transcription-guidelines: "Abr\xE9viations conserv\xE9es."
-production-software: eScriptorium + Kraken
+  - metric: lines
+    count: 5883
+  - metric: characters
+    count: 235531
+  - metric: files
+    count: 83
+  - metric: regions
+    count: 365
+transcription-guidelines: >-
+  Not a graphetic/"allographetique" transcription but rather a graphemic one
+  that preserves the sequence of letters and reduces each form to its meaning in
+  an alphabetical system. Abbreviations are preserved (e.g. pro, pre, tironian
+  et, "est" etc.), as well as abbreviative signs, ligatures are reduced to their
+  component letters. Spaces between letters reproduce the original (e.g. in the
+  case of a semicontinuous script). Punctuations are simplified, reducing to ":"
+  all two-component punctuation (e.g. punctus elevatus). Rare characters have
+  been preserved such as "instans" and metric values (e.g. ounces). 
 characters:
   mode: NFD
   members:
