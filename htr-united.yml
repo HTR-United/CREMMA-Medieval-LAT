@@ -24,7 +24,8 @@ authors:
 institutions: []
 description: Ground truth for medieval latin manuscripts
 project-name: CREMMA
-language: []
+language: 
+  - lat
 production-software: eScriptorium + Kraken
 script:
   - iso: Latn
