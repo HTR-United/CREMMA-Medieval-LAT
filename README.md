@@ -1,6 +1,6 @@
 # CREMMA-Medieval-LAT
 
-![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) [![HTR United Workflow](https://github.com/HTR-United/CREMMA-Medieval-LAT/actions/workflows/htr-united-workflow.yml/badge.svg)](https://github.com/HTR-United/CREMMA-Medieval-LAT/actions/workflows/htr-united-workflow.yml)
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) [![HTR United Workflow](https://github.com/HTR-United/CREMMA-Medieval-LAT/actions/workflows/htr-united-workflow.yml/badge.svg)](https://github.com/HTR-United/CREMMA-Medieval-LAT/actions/workflows/htr-united-workflow.yml) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7013436.svg)](https://doi.org/10.5281/zenodo.7013436)
 
 CREMMA HTR GT for medieval latin manuscripts
 
