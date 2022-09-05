@@ -6,7 +6,7 @@ title: CREMMA-Medieval-LAT
 message: >-
   If you use this dataset, please cite it using the
   metadata from this file.
-type: software
+type: dataset
 authors:
   - given-names: Thibault
     name-particle: Clérice
@@ -33,4 +33,6 @@ keywords:
   - manuscripts
 identifiers:
   - type: doi
-    value: https://doi.org/10.5281/zenodo.7013436
+    value: 10.5281/zenodo.7013436
+    description: "This is the DOI of the latest version available."
+    
