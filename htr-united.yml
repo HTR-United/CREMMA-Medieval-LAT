@@ -2,33 +2,33 @@ schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: CREMMA Medieval Latin Manuscripts
 url: https://github.com/HTR-United/CREMMA-Medieval-LAT
 authors:
-  - name: Cl\xE9rice
-    surname: Thibault
-    orcid: 0000-0003-1852-9204
-    roles:
-      - transcriber
-      - aligner
-      - project-manager
-      - quality-control
-  - name: Chagu\xE9
-    surname: Alix
-    orcid: 0000-0002-0136-4434
-    roles:
-      - project-manager
-  - name: Vlachou Efstathiou
-    surname: Malamatenia
-    orcid: 0000-0002-9397-356X
-    roles:
-      - transcriber
-      - aligner
+- name: Cl\xE9rice
+  surname: Thibault
+  orcid: 0000-0003-1852-9204
+  roles:
+  - transcriber
+  - aligner
+  - project-manager
+  - quality-control
+- name: Chagu\xE9
+  surname: Alix
+  orcid: 0000-0002-0136-4434
+  roles:
+  - project-manager
+- name: Vlachou Efstathiou
+  surname: Malamatenia
+  orcid: 0000-0002-9397-356X
+  roles:
+  - transcriber
+  - aligner
 institutions: []
 description: Ground truth for medieval latin manuscripts
 project-name: CREMMA
-language: 
-  - lat
+language:
+- lat
 production-software: eScriptorium + Kraken
 script:
-  - iso: Latn
+- iso: Latn
 script-type: only-manuscript
 time:
   notBefore: '1100'
@@ -37,27 +37,26 @@ hands:
   count: 1-per-folder
   precision: exact
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 volume:
-  - metric: lines
-    count: 5883
-  - metric: characters
-    count: 235531
-  - metric: files
-    count: 83
-  - metric: regions
-    count: 365
-transcription-guidelines: >-
-  Not a graphetic/"allographetique" transcription but rather a graphemic one
-  that preserves the sequence of letters and reduces each form to its meaning in
-  an alphabetical system. Abbreviations are preserved (e.g. pro, pre, tironian
-  et, "est" etc.), as well as abbreviative signs, ligatures are reduced to their
-  component letters. Spaces between letters reproduce the original (e.g. in the
-  case of a semicontinuous script). Punctuations are simplified, reducing to ":"
-  all two-component punctuation (e.g. punctus elevatus). Rare characters have
-  been preserved such as "instans" and metric values (e.g. ounces). 
+- metric: characters
+  count: 240291
+- metric: files
+  count: 100
+- metric: lines
+  count: 6648
+- metric: regions
+  count: 403
+transcription-guidelines: 'Not a graphetic/"allographetique" transcription but rather
+  a graphemic one that preserves the sequence of letters and reduces each form to
+  its meaning in an alphabetical system. Abbreviations are preserved (e.g. pro, pre,
+  tironian et, "est" etc.), as well as abbreviative signs, ligatures are reduced to
+  their component letters. Spaces between letters reproduce the original (e.g. in
+  the case of a semicontinuous script). Punctuations are simplified, reducing to ":"
+  all two-component punctuation (e.g. punctus elevatus). Rare characters have been
+  preserved such as "instans" and metric values (e.g. ounces). '
 characters:
   mode: NFD
   members:
@@ -70,8 +69,8 @@ characters:
   - "\u0303"
   - o
   - n
-  - c
   - r
+  - c
   - d
   - m
   - l
@@ -107,55 +106,55 @@ characters:
   - S
   - "\xB6"
   - "\u1E9C"
-  - "\u0368"
   - A
+  - "\u0368"
   - E
   - "\u0127"
   - N
-  - "\uA757"
   - C
-  - V
+  - "\uA757"
   - Q
+  - V
   - "\u1D48"
   - y
   - "\u0335"
   - R
-  - "\u036C"
   - D
+  - "\u036C"
   - "\u1DDD"
   - P
   - M
   - "\uA76D"
   - T
   - "\u0367"
-  - ^
   - '2'
+  - ^
   - /
   - '&'
   - ','
   - z
-  - "\xAC"
   - H
+  - "\xAC"
   - '1'
+  - O
   - '3'
   - L
   - '4'
   - '='
   - F
-  - O
-  - "\u1DE0"
   - G
+  - "\u1DE0"
   - "\u2125"
   - '5'
   - "\xF7"
+  - j
   - '9'
+  - U
   - "\xD8"
   - "\u0307"
-  - U
   - B
   - "\uA758"
   - "\u0327"
-  - j
   - '6'
   - '8'
   - '0'
@@ -173,6 +172,7 @@ characters:
   - +
   - Z
   - "\u0111"
+  - K
   - "\u204B"
   - "\u1D56"
   - "\uF038"
