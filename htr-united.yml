@@ -42,13 +42,13 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 240291
+  count: 263218
 - metric: files
-  count: 100
+  count: 121
 - metric: lines
-  count: 6648
+  count: 7274
 - metric: regions
-  count: 403
+  count: 441
 transcription-guidelines: 'Not a graphetic/"allographetique" transcription but rather
   a graphemic one that preserves the sequence of letters and reduces each form to
   its meaning in an alphabetical system. Abbreviations are preserved (e.g. pro, pre,
@@ -79,93 +79,95 @@ characters:
   - "\u033E"
   - q
   - b
-  - f
   - g
-  - "\uF1AC"
+  - f
   - "\u204A"
+  - "\uF1AC"
   - "\u0363"
-  - "\uA770"
   - h
-  - "\u0365"
+  - "\uA770"
   - "\uA751"
+  - "\u0365"
   - x
   - "\u0142"
   - "\u1DD1"
   - "\u1DE4"
+  - "\u0366"
   - "\uA759"
   - "\uA76F"
-  - "\u0366"
   - v
   - I
   - ':'
   - "\u0364"
   - "\u036D"
-  - "\uA753"
   - "\uA775"
-  - "\u036B"
+  - "\uA753"
   - S
+  - "\u036B"
   - "\xB6"
   - "\u1E9C"
+  - E
   - A
   - "\u0368"
-  - E
-  - "\u0127"
-  - N
-  - C
-  - "\uA757"
-  - Q
   - V
-  - "\u1D48"
+  - C
+  - "\u0127"
+  - Q
+  - N
   - y
+  - "\uA757"
+  - "\u1D48"
+  - D
   - "\u0335"
   - R
-  - D
+  - P
   - "\u036C"
   - "\u1DDD"
-  - P
   - M
-  - "\uA76D"
   - T
-  - "\u0367"
-  - '2'
-  - ^
+  - "\uA76D"
   - /
+  - ^
+  - '2'
+  - "\u0367"
   - '&'
-  - ','
   - z
+  - ','
   - H
-  - "\xAC"
-  - '1'
   - O
-  - '3'
+  - "\xAC"
+  - j
   - L
+  - '1'
+  - '3'
   - '4'
-  - '='
   - F
+  - '='
   - G
   - "\u1DE0"
+  - "\xF7"
   - "\u2125"
   - '5'
-  - "\xF7"
-  - j
-  - '9'
+  - B
   - U
+  - '9'
   - "\xD8"
   - "\u0307"
-  - B
   - "\uA758"
-  - "\u0327"
   - '6'
+  - "\u0327"
+  - X
   - '8'
   - '0'
-  - X
   - "\u1D47"
-  - '7'
   - k
+  - '7'
   - ''''
+  - J
   - '*'
   - "\uF2DA"
-  - J
+  - w
+  - '-'
   - Y
   - "\u0301"
   - "\u0308"
