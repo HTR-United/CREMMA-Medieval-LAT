@@ -62,10 +62,12 @@ By Bruno Bureau & Christian Nicolas
 
 ## Lines count
 
+
 | Directory                       | Line type       | Count   |
 |:--------------------------------|:----------------|:--------|
 | ./data/Arras-861                | HeadingLine     | 1       |
 |                                 | DefaultLine     | 357     |
+| ./data/BGO-511                  | DefaultLine     | 56      |
 | ./data/BIS-193                  | DefaultLine     | 889     |
 | ./data/CCCC-MSS-165             | DefaultLine     | 151     |
 | ./data/CCCC-MSS-236             | HeadingLine     | 31      |
@@ -83,11 +85,16 @@ By Bruno Bureau & Christian Nicolas
 |                                 | DefaultLine     | 120     |
 | ./data/LaurentianusPluteus53.08 | DefaultLine     | 245     |
 | ./data/LaurentianusPluteus53.09 | DefaultLine     | 158     |
+| ./data/Mazarine915              | DefaultLine     | 528     |
 | ./data/PalLat373                | DefaultLine     | 453     |
 | ./data/Phi_10a135               | DefaultLine     | 142     |
+| ./data/SBB_PK_Hdschr25          | HeadingLine     | 2       |
+|                                 | DefaultLine     | 235     |
+| ./data/UBL758                   | HeadingLine     | 9       |
+|                                 | DefaultLine     | 561     |
 | ./data/WettF0015                | DefaultLine     | 455     |
 | -----                           | -----           | -----   |
-| All                             | All             | 5883    |
+| All                             | All             | 7274    |
 
 
 
