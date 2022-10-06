@@ -35,7 +35,7 @@ jobs:
         pip install htrvx
     - name: Run HTRVX
       run: |
-        htrvx --verbose --group --format alto --segmonto --xsd --check-empty data/**/*.xml
+        htrvx --verbose --group --format alto --segmonto --xsd --check-empty data/**/*.xml --check-image
   ChocoMufin:
     runs-on: ubuntu-latest
     steps:
