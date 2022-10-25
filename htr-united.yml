@@ -1,5 +1,5 @@
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: CREMMA Medieval Latin Manuscripts
+title: CREMMA Medii Aevi
 url: https://github.com/HTR-United/CREMMA-Medieval-LAT
 authors:
 - name: Cl\xE9rice
@@ -22,7 +22,7 @@ authors:
   - transcriber
   - aligner
 institutions: []
-description: Ground truth for medieval latin manuscripts
+description: Ground truth for medieval latin manuscripts. Formerly `CREMMA-Medieval-LAT`.
 project-name: CREMMA
 language:
 - lat
