@@ -42,7 +42,7 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 263218
+  count: 263222
 - metric: files
   count: 121
 - metric: lines
@@ -112,8 +112,8 @@ characters:
   - V
   - C
   - "\u0127"
-  - Q
   - N
+  - Q
   - y
   - "\uA757"
   - "\u1D48"
@@ -162,8 +162,8 @@ characters:
   - "\u1D47"
   - k
   - '7'
-  - ''''
   - J
+  - ''''
   - '*'
   - "\uF2DA"
   - w
@@ -174,9 +174,9 @@ characters:
   - +
   - Z
   - "\u0111"
+  - "\_"
   - K
   - "\u204B"
   - "\u1D56"
   - "\uF038"
   - "\u03B9"
-  - "\_"
