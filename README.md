@@ -1,3 +1,5 @@
+<img src="./cremma_meii-aevi.png" width="200" align=right>
+
 # CREMMA Medii Aevi
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
