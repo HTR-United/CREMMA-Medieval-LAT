@@ -2,6 +2,11 @@ char,name,replacement,codepoint,mufidecode,ontographe,order
 #r#l’,LATIN SMALL LETTER L WITH STROKE,ł,,,l ,0
 #r#s̵,S STROKE TO Single letter,ẜ,,,s,
 #r#s̶,S STROKE TO Single letter,ẜ,,,s,
+V,LATIN CAPITAL LETTER V,U,,,U,0
+v,LATIN SMALL LETTER V,u,,,u,0
+J,LATIN CAPITAL LETTER V,I,,,I,0
+j,LATIN SMALL LETTER V,i,,,i,0
+ê,LATIN SMALL LETTER E WITH CIRCUMFLEX,ẽ,,,e,0
 Á,LATIN CAPITAL LETTER A WITH ACUTE,A,,,A,0
 ê,LATIN SMALL LETTER E WITH CIRCUMFLEX,ẽ,,,e,0
 í,LATIN SMALL LETTER I WITH ACUTE,i,,,i,0
