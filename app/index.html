@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CREMMA Medii Aevi</title>
+    <style type="text/css">
+      @font-face {
+        font-family: junicode;
+        src: url(junicode.woff2);
+      }
+
+      svg text {
+        font-family: junicode!important;
+      }
+    </style>
+</head>
+<body>
+<!-- By default uses Roboto font. Be sure to load this or change the font -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+<!-- Container element of Mirador whose id should be passed to the instantiating call as "id" -->
+<div id="my-mirador"/> 
+    <script type="text/javascript" src="out.js"></script>
+    <script type="text/javascript">
+        //import {Mirador} from "./out.js";
+        const config = {
+          "id": "my-mirador",
+          "manifests": {
+            "./simple_manifest.json": {
+              "provider": "CREMMA Medii Aevi"
+            }
+          },
+          "window": {
+            "textOverlay": {
+              "enabled": true,
+              "selectable": true,
+              "visible": false,
+            },
+          },
+          "windows": [{
+              "loadedManifest": "./simple_manifest.json",
+              "canvasIndex": 0,
+              "thumbnailNavigationPosition": 'far-bottom',
+          }]
+        };
+        const mirador = Mirador.viewer(config, [
+          ...textOverlayPlugin,
+        ]);
+    </script>
+</body>
+</html>

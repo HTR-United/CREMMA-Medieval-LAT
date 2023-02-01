@@ -1,10 +1,11 @@
+node_modules
 random_data.py
 split.py
 updated_metrics.json
 *.xsd
 *.txt
 *.arrow
-*.mufichecker.xml
+#*.mufichecker.xml
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
