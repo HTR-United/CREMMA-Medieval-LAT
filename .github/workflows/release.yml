@@ -1,0 +1,21 @@
+name: Release
+on:
+  workflow_run:
+    workflows:
+      - Build
+    types:
+      - completed
+permissions:
+  contents: write
+jobs:
+  tag-image:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v2
+      - uses: rymndhng/release-on-push-action@master
+        if: ${{ github.ref == 'refs/heads/main' }}
+        with:
+          bump_version_scheme: patch
+          use_github_release_notes: true
